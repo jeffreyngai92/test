@@ -13,3 +13,4 @@
     echo 'gg.com';
     echo 'asdddddddgg.com';
     echo '777';
+    echo '755';
